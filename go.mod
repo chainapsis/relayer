@@ -6,6 +6,7 @@ require (
 	github.com/DataDog/datadog-go v3.7.1+incompatible
 	github.com/avast/retry-go v2.6.0+incompatible
 	github.com/cenkalti/backoff/v3 v3.2.2 // indirect
+	github.com/chainapsis/cosmos-sdk-interchain-account v0.0.0-20200707153527-c0d7d6f6aa3c // indirect
 	github.com/containerd/continuity v0.0.0-20200228182428-0f16d7a0959c // indirect
 	github.com/cosmos/cosmos-sdk v0.34.4-0.20200522204605-4a07d536a7cc
 	github.com/cosmos/gaia v0.0.1-0.20200522222820-2d61264338e5

@@ -23,7 +23,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/codec"
 	codecstd "github.com/cosmos/cosmos-sdk/std"
-	gaia "github.com/cosmos/gaia/app"
+	gaia "github.com/chainapsis/cosmos-sdk-interchain-account/demo/app"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
